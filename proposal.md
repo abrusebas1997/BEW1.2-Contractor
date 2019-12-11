@@ -1,3 +1,2 @@
-I'm going to create a website that helps people struggling in hunger with restaurant's leftovers.
-How it works?
-There's going to be two type of accounts: 1)For restaurants to request a pick up when they have leftovers and post photos of the food, 2)For costumers to separate their meals. insert their location and give feedback
+I'm going to create a website in which there will be two type of users: 1)can upload and sell their codes, 2)buy code
+I will need to create two type of accounts and  payment method
